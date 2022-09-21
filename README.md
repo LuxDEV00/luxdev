@@ -1,6 +1,6 @@
-## hi meu nome e luan
+# hello, my name is luan
 
--apredendo front-end
+## learning of front-end
 
 <div align="center">
     <a href="https://github.com/luxdev00">
