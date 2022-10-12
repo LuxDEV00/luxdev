@@ -1,7 +1,9 @@
 # olá 🖐, meu nome e luan  soares 😊
 <div align="center">
-
+ seja bem vindo!<br>
+  
 ## estou estudando front-end
+  
 </div>
 
   <div align="center"><br>
