@@ -8,7 +8,7 @@
 
   <div align="center"><br>
     <a href="https://github.com/LuxDEV00">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luxdev00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LuxDEV00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxdev00&layout=compact&langs_count=6&theme=tokyonight"/>
   </div>
   
