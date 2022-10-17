@@ -1,6 +1,8 @@
-# olá 🖐, meu nome e luan  soares 😊
 <div align="center">
- seja bem vindo!<br>
+
+# olá 🖐, meu nome e luan  soares 😊
+
+ seja bem vindo!
   
 ## estou estudando front-end
   
@@ -8,14 +10,14 @@
 
   <div align="center"><br>
     <a href="https://github.com/LuxDEV00">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LuxDEV00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LuxDEV00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxdev00&layout=compact&langs_count=6&theme=tokyonight"/>
   </div>
   
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
+  <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
 </div>
 
 <br>
