@@ -1,6 +1,6 @@
 <div align="center">
 
-# olá 🖐, meu nome e luan  soares 😊
+# olá 🖐, meu nome e luan  soares
 
  seja bem vindo!
   
